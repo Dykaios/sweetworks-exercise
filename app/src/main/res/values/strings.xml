@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Users</string>
+
+    <string name="search_text">Search user</string>
+    <string name="no_items_text">No elements found</string>
+    <string name="item_thumbnail_content_description">User thumbnail</string>
+    <string name="error_getting_search">Error</string>
+</resources>
